@@ -3,14 +3,16 @@ import fs from 'fs';
 import path from 'path';
 import { recipients } from './constants.js';
 import { fileURLToPath } from 'url';
-
+import dotenv from 'dotenv';
 // Configure your SMTP client
+dotenv.config();
 const client = new SMTPClient({
     user: 'hrishabhjoshi123@gmail.com',
     password: process.env.EMAIL_PASSWORD,
     host: 'smtp.gmail.com',
     ssl: true,
 });
+
 
 // Function to send emails with resume attachment
 const __filename = fileURLToPath(import.meta.url);

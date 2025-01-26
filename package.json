@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "type" : "module",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hrishabh6/Email-Automator.git"
@@ -19,6 +19,7 @@
   "description": "",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
+    "dotenv": "^16.4.7",
     "emailjs": "^4.0.3"
   }
 }

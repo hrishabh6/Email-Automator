@@ -1,16 +1,16 @@
 export const recipients = [
     {
-      receiverEmail: 'anjany.pandey06@gmail.com',
+      receiverEmail: 'hrishabhjoshi123@gmail.com',
       receiverName: 'John Doe',
       companyName: 'RandomCorp',
     },
     {
-      receiverEmail: 'Pankajams1234@gmail.com',
+      receiverEmail: 'hrishabhjoshi1234@gmail.com',
       receiverName: 'Pankaj Rand',
       companyName: 'TechSolutions',
     },
     {
-      receiverEmail: 'tryy.shivam@gmail.com',
+      receiverEmail: 'hrishabhjoshi12345@gmail.com',
       receiverName: 'Shivam',
       companyName: 'Ankho se rap',
     },
