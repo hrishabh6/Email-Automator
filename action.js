@@ -7,7 +7,7 @@ import { fileURLToPath } from 'url';
 // Configure your SMTP client
 const client = new SMTPClient({
     user: 'hrishabhjoshi123@gmail.com',
-    password: 'qbnn kusn gzds cjcm',
+    password: process.env.EMAIL_PASSWORD,
     host: 'smtp.gmail.com',
     ssl: true,
 });
