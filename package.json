@@ -1,0 +1,24 @@
+{
+  "name": "email-automator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type" : "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrishabh6/Email-Automator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrishabh6/Email-Automator/issues"
+  },
+  "homepage": "https://github.com/hrishabh6/Email-Automator#readme",
+  "description": "",
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "emailjs": "^4.0.3"
+  }
+}
