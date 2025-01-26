@@ -38,6 +38,16 @@ Email Automator is a tool designed to simplify and streamline the process of sen
        // Add more recipients as needed
    ];
    ```
+3. Set up the `.env` file with the following field
+   ```text
+   
+       EMAIL_PASSWORD=<your Password>
+   
+   ```
+
+## Note 
+If you have 2 factor authentication field Turned ON, generate an App code via your email service provider
+for google
 
 ## Usage
 1. Configure your SMTP client:
@@ -45,7 +55,7 @@ Email Automator is a tool designed to simplify and streamline the process of sen
      ```javascript
      const client = new SMTPClient({
          user: 'your_email@gmail.com',
-         password: 'your_app_password',
+         password: process.env.EMAIL_PASSWORD,
          host: 'smtp.gmail.com',
          ssl: true,
      });
