@@ -20,6 +20,7 @@
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "dotenv": "^16.4.7",
-    "emailjs": "^4.0.3"
+    "emailjs": "^4.0.3",
+    "xlsx": "^0.18.5"
   }
 }
