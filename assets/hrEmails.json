@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Siddhartha kundu",
+    "email": "siddharthakundu@kpmg.com",
+    "company": "Kpmg"
+  },
+  {
+    "name": "Sapna Jayaswal",
+    "email": "sapna.jayaswal@in.ey.com",
+    "company": "EY"
+  },
+  {
+    "name": "Abhishek Lakhani",
+    "email": "abhishek.lakhani@pwc.com",
+    "company": "Pwc"
+  },
+  {
+    "name": "Satjha",
+    "email": "satjha@deloitte.com",
+    "company": "Deloitte"
+  },
+  {
+    "name": "Sejal Wadekar",
+    "email": "sejal.wadekar@tcs.com",
+    "company": "TCS"
+  },
+  {
+    "name": "Mansi Kasaudhan",
+    "email": "mansi.kasaudhan@accenture.com",
+    "company": "Accenture"
+  },
+  {
+    "name": "Chandan Ghosh1",
+    "email": "chandan.ghosh1@wipro.com",
+    "company": "Wipro"
+  },
+  {
+    "name": "Amudhan Selvaraj",
+    "email": "amudhan.selvaraj@infosys.com",
+    "company": "Infosys"
+  },
+  {
+    "name": "Subhasis Ghosh",
+    "email": "subhasis.ghosh@oracle.com",
+    "company": "Oracle"
+  },
+  {
+    "name": "Akanksha A Patil",
+    "email": "akanksha-a.patil@capgemini.com",
+    "company": "Capgemini"
+  },
+  {
+    "name": "Somenath Saha",
+    "email": "somenath.saha@genpact.com",
+    "company": "Genpact"
+  },
+  {
+    "name": "Shraddha Khatavkar",
+    "email": "shraddha.khatavkar@wns.com",
+    "company": "Wns"
+  },
+  {
+    "name": "Priyanka Mishra",
+    "email": "priyanka.mishra@ril.com",
+    "company": "Reliance"
+  },
+  {
+    "name": "Kashish Pandey",
+    "email": "kashish.pandey@techmahindra.com",
+    "company": "Tech Mahindra"
+  },
+  {
+    "name": "Shahrukh Hassan",
+    "email": "shahrukh.hassan@bhartiaxa.com",
+    "company": "Bharti AXA"
+  },
+  {
+    "name": "Meghna Chowdhary",
+    "email": "meghna.chowdhary@nativeworld.com",
+    "company": "Native World"
+  },
+  {
+    "name": "Nehasharma Ext",
+    "email": "nehasharma.ext@siemens.com",
+    "company": "Siemens"
+  },
+  {
+    "name": "Pari Arora",
+    "email": "pari.arora@cars24.com",
+    "company": "Cars24"
+  },
+  {
+    "name": "Sonam Gawas",
+    "email": "sonam.gawas@sodexo.com",
+    "company": "Sodexo"
+  },
+  {
+    "name": "Maneesh Millan",
+    "email": "maneesh.millan@paytm.com",
+    "company": "Paytm"
+  },
+  {
+    "name": "Harsha Dhanya",
+    "email": "harsha.dhanya@adityabirla.com",
+    "company": "Aditabirla"
+  },
+  {
+    "name": "Prasanthr4",
+    "email": "prasanthr4@hexaware.com",
+    "company": "hexaware"
+  },
+  {
+    "name": "Annesha Manna",
+    "email": "annesha.manna@concentrix.com",
+    "company": "concentrix"
+  },
+  {
+    "name": "Devendra Goswami",
+    "email": "devendra.goswami@indusind.com",
+    "company": "Indusind"
+  },
+  {
+    "name": "Parth Gupta",
+    "email": "parth.gupta@in.gt.com",
+    "company": "Grant thornton"
+  },
+  {
+    "name": "Prabhu Ravi",
+    "email": "prabhu.ravi@radisson.com",
+    "company": "Radisson"
+  },
+  {
+    "name": "Srabonty Chakraborty",
+    "email": "srabonty.chakraborty@cafecoffeeday.com",
+    "company": "CCD"
+  },
+  {
+    "name": "Hr",
+    "email": "hr@countrywoods.co.in",
+    "company": "Countrywoods"
+  },
+  {
+    "name": "Mangesh Dhamane",
+    "email": "mangesh.dhamane@muthootgroup.com",
+    "company": "Muthoot Group"
+  },
+  {
+    "name": "Namrita Vaswani",
+    "email": "namrita.vaswani@cipla.com",
+    "company": "Cipla"
+  },
+  {
+    "name": "Mayank R",
+    "email": "mayank_r@apollohospitals.com",
+    "company": "Apollo hospital"
+  },
+  {
+    "name": "Vijeta Kamble1",
+    "email": "vijeta.kamble1@sutherlandglobal.com",
+    "company": "Sutherland Global"
+  },
+  {
+    "name": "Chintalapatikavya1",
+    "email": "chintalapatikavya1@drreddys.com",
+    "company": "Dr Reddy's"
+  },
+  {
+    "name": "Honey Gupta",
+    "email": "honey.gupta@idfcfirstbank.com",
+    "company": "IDFC Bank"
+  },
+  {
+    "name": "Sharad Soni",
+    "email": "sharad.soni@unitybank.co.in",
+    "company": "Unity Bank"
+  },
+  {
+    "name": "Niharika Gautam",
+    "email": "niharika.gautam@kotak.com",
+    "company": "Kotak"
+  },
+  {
+    "name": "Mohit Kapil",
+    "email": "mohit.kapil@dil-rjcorp.com",
+    "company": "RJ Corp"
+  },
+  {
+    "name": "Chawi Choudhary",
+    "email": "chawi.choudhary@eclerx.com",
+    "company": "Eclerx"
+  },
+  {
+    "name": "Priyanshi Sharma",
+    "email": "priyanshi.sharma@herofincorp.com",
+    "company": "Hero fincorp"
+  },
+  {
+    "name": "Alisha Jain",
+    "email": "alisha.jain@zomato.com",
+    "company": "Zomato"
+  },
+  {
+    "name": "Trupti Palia",
+    "email": "trupti.palia@hocco.in",
+    "company": "Hocco"
+  },
+  {
+    "name": "Prachi Chhabra",
+    "email": "prachi.chhabra@in.nestle.com",
+    "company": "Nestle"
+  },
+  {
+    "name": "Priyaraval",
+    "email": "priyaraval@vadilalgroup.com",
+    "company": "Vadilal"
+  },
+  {
+    "name": "Manugarg",
+    "email": "manugarg@hcl.com",
+    "company": "HCL"
+  },
+  {
+    "name": "Pawan23 Sharma",
+    "email": "pawan23.sharma@axisbank.com",
+    "company": "AXIS BANK"
+  },
+  {
+    "name": "Samridhi Mahajan",
+    "email": "samridhi.mahajan@mdlz.com",
+    "company": "Mondelez"
+  },
+  {
+    "name": "Anjali Shashi",
+    "email": "anjali.shashi@polycab.com",
+    "company": "polycab"
+  },
+  {
+    "name": "Nikita Torne",
+    "email": "Nikita.Torne@exlservice.com",
+    "company": "exl"
+  },
+  {
+    "name": "Snehal Desai",
+    "email": "snehal.desai@pepsico.com",
+    "company": "Pepsico"
+  },
+  {
+    "name": "Hr",
+    "email": "hr@theclarkshotels.com",
+    "company": "The Clarks Hotel"
+  },
+  {
+    "name": "Poojavaria",
+    "email": "poojavaria@michaelpage.co.in",
+    "company": "Michael Page"
+  },
+  {
+    "name": "Rishabh Massey",
+    "email": "rishabh.massey@monsterindia.com",
+    "company": "Monster India"
+  }
+]

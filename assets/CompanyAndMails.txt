@@ -1,0 +1,53 @@
+Company             mails
+Kpmg                siddharthakundu@kpmg.com
+EY                  sapna.jayaswal@in.ey.com
+Pwc                 abhishek.lakhani@pwc.com
+Deloitte            satjha@deloitte.com
+TCS                 sejal.wadekar@tcs.com
+Accenture           mansi.kasaudhan@accenture.com
+Wipro               chandan.ghosh1@wipro.com
+Infosys             amudhan.selvaraj@infosys.com
+Oracle              subhasis.ghosh@oracle.com
+Capgemini           akanksha-a.patil@capgemini.com
+Genpact             somenath.saha@genpact.com
+Wns                 shraddha.khatavkar@wns.com
+Reliance            priyanka.mishra@ril.com
+Tech Mahindra       kashish.pandey@techmahindra.com
+Bharti AXA          shahrukh.hassan@bhartiaxa.com
+Native World        meghna.chowdhary@nativeworld.com
+Siemens             nehasharma.ext@siemens.com
+Cars24              pari.arora@cars24.com
+Sodexo              sonam.gawas@sodexo.com
+Paytm               maneesh.millan@paytm.com
+Aditabirla          harsha.dhanya@adityabirla.com
+hexaware            prasanthr4@hexaware.com
+concentrix          annesha.manna@concentrix.com
+Indusind            devendra.goswami@indusind.com
+Grant thornton      parth.gupta@in.gt.com
+Radisson            prabhu.ravi@radisson.com
+CCD                 srabonty.chakraborty@cafecoffeeday.com
+Countrywoods        hr@countrywoods.co.in
+Muthoot Group       mangesh.dhamane@muthootgroup.com
+Cipla               namrita.vaswani@cipla.com
+Apollo hospital     mayank_r@apollohospitals.com
+Sutherland Global   vijeta.kamble1@sutherlandglobal.com
+Dr Reddy's          chintalapatikavya1@drreddys.com
+IDFC Bank           honey.gupta@idfcfirstbank.com
+Unity Bank          sharad.soni@unitybank.co.in
+Kotak               niharika.gautam@kotak.com
+RJ Corp             mohit.kapil@dil-rjcorp.com
+Eclerx              chawi.choudhary@eclerx.com
+Hero fincorp        priyanshi.sharma@herofincorp.com
+Zomato              alisha.jain@zomato.com
+Hocco               trupti.palia@hocco.in
+Nestle              prachi.chhabra@in.nestle.com
+Vadilal             priyaraval@vadilalgroup.com
+HCL                 manugarg@hcl.com
+AXIS BANK           pawan23.sharma@axisbank.com
+Mondelez            samridhi.mahajan@mdlz.com
+polycab            anjali.shashi@polycab.com
+exl                Nikita.Torne@exlservice.com
+Pepsico            snehal.desai@pepsico.com
+The Clarks Hotel   hr@theclarkshotels.com
+Michael Page       poojavaria@michaelpage.co.in
+Monster India      rishabh.massey@monsterindia.com
