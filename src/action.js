@@ -13,8 +13,8 @@ const __dirname = path.dirname(__filename);
 
 // Configure SMTP client
 const client = new SMTPClient({
-    user: 'hrishabhjoshi123@gmail.com',
-    password: process.env.EMAIL_PASSWORD,
+    user: 'hrishabh.joshi.dev@gmail.com',
+    password: "tcsr gupi csya musk",
     host: 'smtp.gmail.com',
     ssl: true,
 });
